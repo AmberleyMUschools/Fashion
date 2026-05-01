@@ -50,7 +50,7 @@ h1, h2, p {
 
 &#x20; width: 80%;
 
-&#x20; background-color: burlywood;
+&#x20; background-color: thistle;
 
 &#x20; margin-left: auto;
 
@@ -84,9 +84,9 @@ hr {
 
 &#x20; height: 2px;
 
-&#x20; background-color: brown;
+&#x20; background-color: darkseagreen;
 
-&#x20; border-color: brown;
+&#x20; border-color: black;
 
 }
 
@@ -180,7 +180,7 @@ a:visited {
 
 a:hover {
 
-&#x20; color: brown;
+&#x20; color: white;
 
 }
 
@@ -188,7 +188,6 @@ a:hover {
 
 a:active {
 
-&#x20; color: brown;
+&#x20; color: thistle;
 
-}[Testhtml.html](Testhtml.html)
 
