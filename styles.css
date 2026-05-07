@@ -32,7 +32,7 @@ h2 {
 
 .established {
 
-&#x20; font-style: Fantasy;
+&#x20; font-style: fantasy;
 
 }
 
@@ -48,7 +48,7 @@ h1, h2, p {
 
 .menu {
 
-&#x20; width: 80%;
+&#x20; width: 100%;
 
 &#x20; background-color: thistle;
 
@@ -102,7 +102,7 @@ hr {
 
 h1, h2 {
 
-&#x20; font-family: Impact, serif;
+&#x20; font-family: Impact, fantasy;
 
 }
 
